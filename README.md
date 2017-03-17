@@ -8,9 +8,9 @@
 - [Storm Talk](https://github.com/andreaiacono/TalkStorm)
 - [Apache Kafka](https://github.com/zdata-inc/StormSampleProject)
 - [Learn Cassandra](https://teddyma.gitbooks.io/learncassandra/content/)
-- [Mastering Spark2](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/content/)
+- [Learn Apache Spark](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/)
 
 ## System Design
-- [Distributed Systems](http://book.mixu.net/distsys/)
+- [Distributed Systems](http://book.mixu.net/distsys/ebook.html)
 - [Distributed Systems Class](https://github.com/aphyr/distsys-class)
 - [Design Large Scale Systems](https://github.com/donnemartin/system-design-primer)
