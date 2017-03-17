@@ -10,7 +10,7 @@
 - [Learn Cassandra](https://teddyma.gitbooks.io/learncassandra/content/)
 - [Mastering Spark](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/content/)
 
-## ddddddd
+## System design
 - [Distributed Systems](http://book.mixu.net/distsys/)
 - [Distributed Systems Class](https://github.com/aphyr/distsys-class)
 - [Design Large Scale Systems](https://github.com/donnemartin/system-design-primer)
