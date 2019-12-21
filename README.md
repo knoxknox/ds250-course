@@ -6,7 +6,7 @@
 
 ## Components
 - [Storm Talk](https://github.com/andreaiacono/TalkStorm)
-- [Apache Kafka](https://github.com/zdata-inc/StormSampleProject)
+- [Apache Kafka](https://github.com/saiaman/StormSampleProject)
 - [Learn Cassandra](https://teddyma.gitbooks.io/learncassandra/content/)
 - [Learn Apache Spark](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/)
 
